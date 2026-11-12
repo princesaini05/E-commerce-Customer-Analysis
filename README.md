@@ -1,4 +1,4 @@
-# E-commerce Funnel Drop-off & RFM Customer Segmentation Analysis
+# E-commerce Customer Segmentation Analysis
 
 ![E-commerce Dashboard](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/23ee039460dab2556f0448528a74a4e7b247dd0a/E-commerce%20Funnel%20Drop-off%20%26%20RFM%20Customer%20Segmentation%20Analysis.png)
 
